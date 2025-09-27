@@ -17,7 +17,7 @@ GET http://localhost:3000/secure
 
 Authorization: Basic admin:12345 → header Authorization: Basic YWRtaW46MTIzNDU=
 Expected: You have accessed a protected resource 🎉
-![BasicAuth](public/results/basic_secure.png.png)
+![BasicAuth](public/results/basic_secure.png)
 
 - Cookie Auth
 
